@@ -14,7 +14,7 @@ This project simulates a simple dice game where two dice are rolled, and the res
 
 This project is hosted on GitHub Pages, making it easy to view and interact with. To access the game, simply click the link below:
 
-[Play the Dice Game](https://username.github.io/repositoryname)
+[Play the Dice Game](https://jessicasandrinii.github.io/dice-game/)
 
 ## Technologies Used
 
